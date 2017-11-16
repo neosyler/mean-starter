@@ -1,0 +1,30 @@
+{
+  "name": "mean-starter-api",
+  "version": "0.0.1",
+  "private": false,
+  "scripts": {
+    "start": "node server/app.js"
+  },
+  "dependencies": {
+    "async": "^2.6.0",
+    "body-parser": "~1.18.2",
+    "compression": "^1.7.1",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "ejs": "^2.5.7",
+    "errorhandler": "^1.5.0",
+    "express": "~4.15.5",
+    "express-session": "^1.15.6",
+    "lodash": "^4.17.4",
+    "method-override": "^2.3.10",
+    "moment": "^2.19.2",
+    "morgan": "~1.9.0",
+    "mysql": "^2.15.0",
+    "orm": "^4.0.1",
+    "serve-favicon": "~2.4.5"
+  },
+  "description": "MEAN Stack Pre-scaffolded Starter Project (MySql, Express, AngularJS 1.6.x, Node.js)",
+  "main": "/server/app.js",
+  "author": "Jason T. Stiles",
+  "license": "MIT"
+}
